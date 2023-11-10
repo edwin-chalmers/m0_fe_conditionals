@@ -47,7 +47,7 @@ var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
 // The varible `attendees` is assigned `9`, and the varible `meals` is assigned `8`. 
-// A log is called to compare if `attendees` does not stricktly equal `meals`, which should return `False`.
+// A log is called to compare if `attendees` does not stricktly equal `meals`, which should return `True`.
 
 
 // #-------------------
